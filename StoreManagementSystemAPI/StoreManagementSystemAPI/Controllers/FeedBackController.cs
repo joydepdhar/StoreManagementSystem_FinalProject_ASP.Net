@@ -11,9 +11,6 @@ namespace StoreManagementSystemAPI.Controllers
 {
     public class FeedBackController : ApiController
     {
-
-
-
         [HttpGet]
         [Route("api/feedback/get")]
         public HttpResponseMessage feedback()
