@@ -96,6 +96,7 @@
     <Compile Include="Controllers\CustomerController.cs" />
     <Compile Include="Controllers\ManageCartController.cs" />
     <Compile Include="Controllers\ManagerController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Controllers\StaffController.cs" />
