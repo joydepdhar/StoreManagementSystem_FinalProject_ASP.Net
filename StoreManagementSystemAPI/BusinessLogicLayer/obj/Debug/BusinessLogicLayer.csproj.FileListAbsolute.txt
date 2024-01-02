@@ -96,3 +96,17 @@ C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLaye
 C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 C:\Users\USER\OneDrive\Desktop\Action\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

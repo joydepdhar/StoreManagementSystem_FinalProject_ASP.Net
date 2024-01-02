@@ -73,3 +73,19 @@ E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\DataAccessLayer\o
 E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 E:\Fall 2023-2024\.Net Project\Action\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initDb.resources
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initDb1.resources
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initDb2.resources
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Fall 2023-2024\Project-Update-2\StoreManagementSystem_FinalProject_ASP.Net\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
